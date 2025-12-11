@@ -1,5 +1,4 @@
 import { portfolioData } from "@/data/portfolio";
-import { Heart } from "lucide-react";
 
 export function Footer() {
   const { personal } = portfolioData;
@@ -12,7 +11,6 @@ export function Footer() {
             © {new Date().getFullYear()} {personal.name}. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground flex items-center gap-1">
-            Made with <Heart className="w-4 h-4 text-destructive fill-destructive" /> using React
           </p>
         </div>
       </div>
