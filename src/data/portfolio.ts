@@ -5,8 +5,8 @@ export const portfolioData = {
     location: "Gurgaon, India",
     email: "srisuhani9651@gmail.com",
     phone: "+91-9651575545",
-    linkedin: "https://linkedin.com/in/suhani-srivastava",
-    github: "https://github.com/suhani-srivastava",
+    linkedin: "https://www.linkedin.com/in/suhani-srivastava/",
+    github: "https://github.com/srisuhani9651",
     summary:
       "Motivated Full Stack Software Engineer with hands-on experience in developing scalable web applications and RESTful APIs. Proficient in Node.js, Express.js, React, and PostgreSQL, with expertise in designing optimized schemas, writing complex queries, improving performance using indexes, and building reliable backend systems.",
   },
@@ -22,12 +22,12 @@ export const portfolioData = {
 
   technicalSkills: [
     { category: "Databases", skills: ["PostgreSQL", "MongoDB"] },
-    { category: "Languages", skills: ["JavaScript", "Java (Basics)"] },
-    { category: "Frameworks", skills: ["React", "Node.js", "Express", "Spring Boot"] },
+    { category: "Languages", skills: ["JavaScript", "Python"] },
+    { category: "Frameworks", skills: ["React", "Node.js", "Express"] },
     { category: "ORM", skills: ["Sequelize"] },
     { category: "Deployment", skills: ["Docker"] },
-    { category: "CI/CD", skills: ["Git", "GitHub", "Bitbucket"] },
-    { category: "Tools", skills: ["VS Code", "WebStorm", "Jira", "PgAdmin", "Postman", "Chrome DevTools"] },
+    { category: "CI/CD", skills: ["Git", "GitHub"] },
+    { category: "Tools", skills: ["VS Code", "Jira", "PgAdmin", "Postman", "Chrome DevTools", "pyCharm", "Jupiter"] },
   ],
 
   softSkills: [
@@ -46,7 +46,7 @@ export const portfolioData = {
       role: "Associate Software Engineer",
       company: "MPC Cloud Consulting Pvt. Ltd.",
       location: "Gurugram, Haryana",
-      period: "Oct 2024 - Present",
+      period: "Oct 2024 - Nov 2025",
       projects: [
         {
           name: "SaaS Based HRMS Project",
