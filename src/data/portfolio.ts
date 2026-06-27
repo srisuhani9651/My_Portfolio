@@ -27,7 +27,7 @@ export const portfolioData = {
     { category: "ORM", skills: ["Sequelize"] },
     { category: "Deployment", skills: ["Docker"] },
     { category: "CI/CD", skills: ["Git", "GitHub"] },
-    { category: "Tools", skills: ["VS Code", "Jira", "PgAdmin", "Postman", "Chrome DevTools", "pyCharm", "Jupiter"] },
+    { category: "Tools", skills: ["VS Code", "Jira", "PgAdmin", "Postman", "Chrome DevTools", "pyCharm", "Jupyter"] },
   ],
 
   softSkills: [
